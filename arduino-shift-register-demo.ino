@@ -11,6 +11,7 @@ void setup() {
   pinMode(latch, OUTPUT);
   pinMode(data, OUTPUT);
   pinMode(clk, OUTPUT);
+  
   Serial.begin(baudrate);
   returnToPreviousState();
   delay(2000); // will pause for 2000 ms to show the previously stored value
