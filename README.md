@@ -2,7 +2,7 @@
  Arduino Shift Register Demo for Code Start! 2021
 
  ## References
- - [Last Minute Engineers](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
+ - [How 74HC595 Shift Register Works & Interface it with Arduino - Last Minute Engineers](https://lastminuteengineers.com/74hc595-shift-register-arduino-tutorial/)
  - [oomlout-ardx](https://www.oomlout.com/oom.php/products/ardx/)
 
  ## License
