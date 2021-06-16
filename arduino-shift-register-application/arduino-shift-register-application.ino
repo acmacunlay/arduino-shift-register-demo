@@ -56,74 +56,42 @@ int getSavedState() {
 
 int checkQ0() {
   bool Q0 = true;
-  if (Q0) {
-    return 1;
-  } else {
-    return 0;
-  }
+  if (Q0) { return 1; } else { return 0; }
 }
 
 int checkQ1() {
   bool Q1 = true;
-  if (Q1) {
-    return 2;
-  } else {
-    return 0;
-  }
+  if (Q1) { return 2; } else { return 0; }
 }
 
 int checkQ2() {
   bool Q2 = true;
-  if (Q2) {
-    return 4;
-  } else {
-    return 0;
-  }
+  if (Q2) { return 4; } else { return 0; }
 }
 
 int checkQ3() {
   bool Q3 = true;
-  if (Q3) {
-    return 8;
-  } else {
-    return 0;
-  }
+  if (Q3) { return 8; } else { return 0; }
 }
 
 int checkQ4() {
   bool Q4 = true;
-  if (Q4) {
-    return 16;
-  } else {
-    return 0;
-  }
+  if (Q4) { return 16; } else { return 0; }
 }
 
 int checkQ5() {
   bool Q5 = true;
-  if (Q5) {
-    return 32;
-  } else {
-    return 0;
-  }
+  if (Q5) { return 32; } else { return 0; }
 }
 
 int checkQ6() {
   bool Q6 = true;
-  if (Q6) {
-    return 64;
-  } else {
-    return 0;
-  }
+  if (Q6) { return 64; } else { return 0; }
 }
 
 int checkQ7() {
   bool Q7 = true;
-  if (Q7) {
-    return 128;
-  } else {
-    return 0;
-  }
+  if (Q7) { return 128; } else { return 0; }
 }
 
 void updateRegister (int val) {
